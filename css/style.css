@@ -1,0 +1,152 @@
+* {
+    margin: 0px;
+    padding:0px;
+
+
+}
+ .container {
+     width: 1140px;
+     margin: 0 auto;
+
+ }
+ header {
+ 	background-color: green;
+ 	height: 50px;
+ }
+ .logo {
+ 	
+ 	width: 50%;
+ 	background-color: yellow;
+    height: 50px;
+    float: left;
+}
+
+ .menu   {
+ 	
+ 	width: 50%;
+    background-color: red;
+    height: 50px;
+    float: left;
+ }
+
+nav ul {
+
+	list-style: none;
+
+}
+
+nav ul li {
+
+	display: inline-block;
+
+	margin: 10px 25px;
+
+}
+
+nav ul li *{
+
+  color: navy
+
+  text-decoration: none;
+
+  text-transform: uppercase;
+}
+
+
+
+
+ .about-us {
+ 	width: 100%
+    float: left;
+ }
+
+ .about-one{
+ 	width: 40%;
+ 	background-color: blue;
+ 	height: 150px;
+ 	float: left;
+
+ }
+
+ .about-two{
+ 	width: 60%;
+ 	background-color: skyblue;
+ 	height: 150px;
+ 	float:left;
+
+
+ }
+ .about-content  {
+ 	width: 50%;
+ 	background-color: blue;
+ 	height: 150px;
+ 	float: left;
+
+ }
+ .about-img {
+ 	width: 50%;
+ 	background-color yellow;
+ 	height:150px;
+ 	float: left;
+
+ }
+.about-content {
+	width: 50%;
+	background-color: pink;
+	height: 150px;
+	float: left;
+
+}
+.about-img {
+	width: 50%;
+	background: yellow;
+	height: 150px;
+	float: left;
+
+
+
+
+}
+
+.our-service {
+	
+	width: 100%;
+	
+	float: left;
+
+}
+
+.service-one {
+	
+	width: 33.33%;
+	
+	background-color: green;
+	
+	height: 350px;
+	
+	float: left;
+
+}
+
+.service-two {
+	
+	width: 33.33%;
+	
+	background-color: gray;
+	
+	height: :350px;
+	
+	float:left;
+}
+
+.service-three {
+    
+     width: 33.33%;
+    
+     background-color: yellow;
+    
+     height:350px;
+    
+     float: left;
+
+}
